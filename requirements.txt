@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+docx2txt
+PyPDF2
+spacy
+scipy
+opencv-python
+fitz
+docx2python
+pillow
+PyMuPDF
